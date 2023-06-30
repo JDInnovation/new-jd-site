@@ -525,10 +525,7 @@ text-align: left;
         align-items: center;
     }
 
-    section {
-
-        scroll-snap-align: start;
-    }
+   
     .aboutbox{
         width: 80vw;
     }
