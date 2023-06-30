@@ -311,6 +311,7 @@ text-align: left;
     display: flex;
     width: 100%;
     position: relative;
+    justify-content: center;
 
     max-width: 80vw;
     z-index: 2;
